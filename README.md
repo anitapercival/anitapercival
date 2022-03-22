@@ -17,6 +17,9 @@ A resource app where boot-campers have access to relevant resources such as vide
 
 [Go to Resource.log](https://resourcelog.netlify.app/)
 
+## Languages and Technologies I've Worked With
+
+<img width="50" src="https://user-images.githubusercontent.com/94081386/159519240-1d6d8af3-ddf0-4857-9990-787761a7c297.png"><img width="50" src="https://user-images.githubusercontent.com/94081386/159519275-b7dcc561-cc60-431a-8eb3-2fcb1476508f.png"><img width="50" src="https://user-images.githubusercontent.com/94081386/159519662-1c10bbbe-a4c9-49ae-b583-0eb6a565d58c.png"><img width="50" src="https://user-images.githubusercontent.com/94081386/159519299-930a5c7a-e27a-4ac2-8f4c-a256b813332f.png"><img width="50" src="https://user-images.githubusercontent.com/94081386/159519314-fd2ef6f2-255f-4674-acee-125a324ce243.png"><img width="50" src="https://user-images.githubusercontent.com/94081386/159519325-34e84552-8376-4e47-9b10-ac1655c8b08d.png"><img width="50" src="https://user-images.githubusercontent.com/94081386/159519342-46c47693-4413-490b-8c70-47dc9bc824d0.png">
 
 
 ##### Find me on LinkedIn
