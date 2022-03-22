@@ -18,6 +18,11 @@ A resource app where boot-campers have access to relevant resources such as vide
 [Go to Resource.log](https://resourcelog.netlify.app/)
 
 
+
+##### Find me on LinkedIn
+[<img src="https://user-images.githubusercontent.com/94081386/159514303-e41295fd-0cc0-4819-86af-5c785065c35c.png" width="50">](https://www.linkedin.com/in/anita-percival-341450221/)
+
+
 <!--
 **anitapercival/anitapercival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
