@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/94081386/159500462-0e51a802-fb72-48be-b806-7ba7f3c8299b.png">
+
 
 <!--
 **anitapercival/anitapercival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
