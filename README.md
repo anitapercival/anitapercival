@@ -5,7 +5,7 @@
 
 #### Book Worms
 <img width="500" alt="Screenshot 2022-03-22 at 14 32 18" src="https://user-images.githubusercontent.com/94081386/159507270-46331720-ad4b-4db7-bdad-804cc8d47c17.png">
-An app that provides a modern way for students to log their extra-curricular reading in a fun and engaging way. Teachers can save time by viewing information about their class's reading at a glance.
+An app that provides a modern way for students to log their extra-curricular reading in a fun and engaging way. Teachers can save time by viewing data about their class's reading at a glance.
 
 [Go to Book Worms](https://bookwormspreview.netlify.app/)
 
