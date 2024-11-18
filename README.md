@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/94081386/159500462-0e51a802-fb72-48be-b806-7ba7f3c8299b.png">
 
 
-## What I've Been Working On
+## My School of Code Projects
 
 #### Book Worms
 <img width="500" alt="Screenshot 2022-03-22 at 14 32 18" src="https://user-images.githubusercontent.com/94081386/159507270-46331720-ad4b-4db7-bdad-804cc8d47c17.png">
