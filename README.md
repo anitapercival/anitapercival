@@ -10,7 +10,7 @@ I build scalable, cloud-native applications with a focus on performance and auto
 ## 🚀 Skills
 
 - **Frontend:** Angular, React, Typescript  
-- **Backend:** Node.js, Express, MongoDB  
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL
 - **Cloud & DevOps:** AWS, Docker, Azure DevOps, CI/CD pipelines  
 - **Tools & Platforms:** Elastic Stack, Git, OpenAI, CKAN  
 
