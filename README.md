@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/94081386/159500462-0e51a802-fb72-48be-b806-7ba7f3c8299b.png">
-
 # Hi, I'm Anita 👋  
 **Full-stack Software Developer** specialising in Angular, React, Node.js, and MongoDB.  
 
