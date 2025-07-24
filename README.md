@@ -4,9 +4,15 @@ Software Developer with a proven track record of delivering impactful, scalable 
 
 ---
 
-**What I'm working on:** [Flightdrop](https://github.com/anitapercival/flightdrop): Full-stack flight price tracker that helps users book at the right time through live flight data, personalised price tracking, trend visualisation, and smart alerts.
+**What I'm working on:** 
+
+[Flightdrop](https://github.com/anitapercival/flightdrop): Full-stack flight price tracker that helps users book at the right time through live flight data, personalised price tracking, trend visualisation, and smart alerts.
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/979e1d72-df70-4c36-b399-b58f97b44c6c)
+
+[WordDash](https://github.com/anitapercival/word-dash-game): A browser-based, multiplayer word game that helps remote teams with teambuilding through collaborative and competitive gameplay.
+
+<img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/0b90e9ce-cb22-4600-999f-704eeddad8c9" />
 
 ---
 
