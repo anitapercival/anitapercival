@@ -1,47 +1,47 @@
-# 👋 Hi, I'm Anita
+# Anita Percival  
+**Software Developer | Glasgow, UK**
 
-Software Developer with a proven track record of delivering impactful, scalable solutions. I specialise in building cloud-native applications using **React**, **Angular**, **Node.js**, **Express** and **MongoDB**.
-
----
-
-**What I'm working on:** 
-
-[Flightdrop](https://github.com/anitapercival/flightdrop): Full-stack flight price tracker that helps users book at the right time through live flight data, personalised price tracking, trend visualisation, and smart alerts.
-
-![Untitled design (1)](https://github.com/user-attachments/assets/979e1d72-df70-4c36-b399-b58f97b44c6c)
-
-[WordDash](https://github.com/anitapercival/word-dash-game): A browser-based, multiplayer word game that helps remote teams with teambuilding through collaborative and competitive gameplay.
-
-<img width="1920" height="1080" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/0b90e9ce-cb22-4600-999f-704eeddad8c9" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/anitapercival/)  
 
 ---
 
-## What I Do
+## Recent Projects  
 
-- **Full-Stack Web Development**  
-  Building performant, maintainable, and accessible applications with Angular, React, Node.js, Express, and MongoDB.
+### 🎮 WordDash  
+A browser-based, multiplayer word game that strengthens remote team collaboration through competitive and cooperative gameplay.  
+**Tech:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socketdotio&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-Amplify%20%7C%20Elastic%20Beanstalk-FF9900?logo=amazonaws&logoColor=white)  
 
-- **Cloud & DevOps Engineering**  
-  Deploying cloud-native applications using **AWS**, **Docker**, and **CI/CD pipelines**, with a focus on reliability, scalability, and automation.
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4ad9c9c3-8ed6-4057-9dea-113655f9c5bc" />
 
-- **Observability & System Performance**  
-  Delivering **Elastic Stack** solutions for centralised logging, system monitoring, and performance tuning at scale.
+### ✈️ Flightdrop  
+A full-stack flight price tracker that helps users book at the right time with live flight data, personalised alerts, and trend visualisation.  
+**Tech:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/8f0fdbbf-b1c3-42c6-9484-f6a39f455cda" />
+
+---
+
+## About Me  
+I’m a **Software Developer** with a track record of delivering impactful, scalable solutions. I specialise in building **cloud-native applications** using modern frameworks and a user-focused approach to design and development.  
 
 ---
 
 ## Skills & Tools
 
 **Languages & Frameworks**  
-`Angular` · `React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `TailwindCSS` · `Next.js`
+`React` · `Angular` · `JavaScript` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Postgres` · `TailwindCSS` · `Next.js`
 
 **DevOps & Cloud**  
-`AWS` · `Docker` · `Azure DevOps` · `CI/CD` · `GIT`
+`AWS` · `Docker` · `Azure DevOps` · `CI/CD` · `Git`
 
 **AI & Data**  
 `OpenAI` · `Elastic Stack` · `CKAN`
+
+**Testing**  
+`Cypress` · `Jest`
 
 ---
 
 ## Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/anita-percival-341450221/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/anitapercival/)  
